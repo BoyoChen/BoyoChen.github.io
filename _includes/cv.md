@@ -132,8 +132,9 @@ Boyo is a Ph.D. student in University of Tokyo working with [Naoto Yokoya](https
   <tr>
   <td class="col-md-3"><img src="images/publications/ashesh2021accurate.png"/></td>
   <td>
-      <strong>Accurate and Clear Precipitation Nowcasting with Consecutive Attention and Rain-map Discrimination</strong><br>
-      Ashesh, Buo-Fu Chen, Treng-Shi Huang, <strong>Boyo Chen</strong>, Chia-Tung Chang, Hsuan-Tien Lin<br>
+      <strong>Accurate and Clear Quantitative Precipitation Nowcasting based on a Deep Learning Model with Consecutive Attention and Rainmap Discrimination</strong><br>
+      Ashesh, Chia-Tung Chang, Buo-Fu Chen, Hsuan-Tien Lin, <strong>Boyo Chen</strong>, Treng-Shi Huang<br>
+      AIES 2022<br>
       
   [<a href='javascript:;'
       onclick='$("#abs_ashesh2021accurate").toggle()'>abs</a>] [<a href='https://arxiv.org/abs/2102.08175' target='_blank'>pdf</a>] <br>
